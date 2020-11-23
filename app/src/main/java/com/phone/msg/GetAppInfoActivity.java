@@ -26,7 +26,7 @@ import java.io.IOException;
 
 
 /**
- * 主页
+ * 功能实现类
  */
 public class GetAppInfoActivity extends AppCompatActivity {
 
